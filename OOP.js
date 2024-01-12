@@ -126,7 +126,7 @@
 // console.log(person1.getName());
 // console.log(person1 instanceof Person);
 
-//Closure - occurs when a function references something in the upper scope.
+//Closure (JS6 - 1.18) - occurs when a function references something in the upper scope.
 // It can be very useful for privacy
 
 // function demo() {
